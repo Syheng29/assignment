@@ -7,10 +7,6 @@
 
 ---
 
-## How it will look on GitHub
-
-### 🚀 Tech Stack
-
 #### Frontend
 
 - Vue 3
@@ -20,11 +16,11 @@
 
 ---
 
-### ▶️ Run Frontend
+### Frontend
 
 **1. Install dependencies**
 
 ```bash
 npm install
-npm run build
+npm run dev
 ```
