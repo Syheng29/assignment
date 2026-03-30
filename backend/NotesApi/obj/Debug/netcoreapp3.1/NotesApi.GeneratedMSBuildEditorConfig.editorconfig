@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = NotesApi
-build_property.ProjectDir = C:\Users\kysyh\OneDrive\Desktop\test\assigment\backend\NotesApi\
+build_property.ProjectDir = C:\Users\kysyh\OneDrive\Desktop\test\assigment\assignment\backend\NotesApi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

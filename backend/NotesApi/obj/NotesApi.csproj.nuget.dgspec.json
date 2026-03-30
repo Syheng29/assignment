@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\backend\\NotesApi\\NotesApi.csproj": {}
+    "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\assignment\\backend\\NotesApi\\NotesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\backend\\NotesApi\\NotesApi.csproj": {
+    "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\assignment\\backend\\NotesApi\\NotesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\backend\\NotesApi\\NotesApi.csproj",
+        "projectUniqueName": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\assignment\\backend\\NotesApi\\NotesApi.csproj",
         "projectName": "NotesApi",
-        "projectPath": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\backend\\NotesApi\\NotesApi.csproj",
+        "projectPath": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\assignment\\backend\\NotesApi\\NotesApi.csproj",
         "packagesPath": "C:\\Users\\kysyh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\backend\\NotesApi\\obj\\",
+        "outputPath": "C:\\Users\\kysyh\\OneDrive\\Desktop\\test\\assigment\\assignment\\backend\\NotesApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

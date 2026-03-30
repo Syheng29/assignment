@@ -52,6 +52,10 @@ namespace NotesApi.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                    return BadRequest(ModelState);
+
+                note.CreatedAt = DateTime.UtcNow;
                 context.notes.Add(note);
                 context.SaveChanges();
                 return CreatedAtRoute("Notes", new { id = note.Id }, note);
@@ -69,6 +73,7 @@ namespace NotesApi.Controllers
             {
                 if (notes.Id == id)
                 {
+                    notes.UpdatedAt = DateTime.UtcNow;
                     context.Entry(notes).State = EntityState.Modified;
                     context.SaveChanges();
                     return CreatedAtRoute("Notes", new { id = notes.Id }, notes);
